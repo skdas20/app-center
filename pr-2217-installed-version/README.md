@@ -1,0 +1,1 @@
+Screenshots for App Center PR #2217 after adding installed version information. These are headless Flutter widget renders with mocked PackageKit metadata, not desktop installation captures. Run the accompanying harness from packages/app_center/test.
